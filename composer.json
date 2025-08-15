@@ -1,5 +1,5 @@
 {
-    "name": "asseco-voice/laravel-stomp",
+    "name": "28Kevin/laravel-stomp",
     "description": "Laravel Stomp driver",
     "keywords": [
         "php",
@@ -11,7 +11,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
-        "laravel/framework": "^10.0",
+        "laravel/framework": "^10.0|^11.0",
         "stomp-php/stomp-php": "^5.0",
         "ext-json": "*"
     },
